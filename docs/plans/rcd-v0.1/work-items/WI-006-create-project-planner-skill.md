@@ -43,8 +43,7 @@ This Work Item does not include:
 - implementation Work Item skill
 - code review skill
 - plan synchronization skill
-- Zoho-specific integration
-- Basecamp-specific integration
+- system specific integration
 - GitHub automation
 
 ## Acceptance Criteria
